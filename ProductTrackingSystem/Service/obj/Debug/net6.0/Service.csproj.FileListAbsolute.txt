@@ -1,0 +1,5 @@
+C:\c# uygulamalar\ProductTrackingSystem\Service\obj\Debug\net6.0\Service.csproj.AssemblyReference.cache
+C:\c# uygulamalar\ProductTrackingSystem\Service\obj\Debug\net6.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\c# uygulamalar\ProductTrackingSystem\Service\obj\Debug\net6.0\Service.AssemblyInfoInputs.cache
+C:\c# uygulamalar\ProductTrackingSystem\Service\obj\Debug\net6.0\Service.AssemblyInfo.cs
+C:\c# uygulamalar\ProductTrackingSystem\Service\obj\Debug\net6.0\Service.csproj.CoreCompileInputs.cache

@@ -1,0 +1,9 @@
+C:\c# uygulamalar\ProductTrackingSystem\WEB\obj\Debug\net6.0\WEB.csproj.AssemblyReference.cache
+C:\c# uygulamalar\ProductTrackingSystem\WEB\obj\Debug\net6.0\WEB.GeneratedMSBuildEditorConfig.editorconfig
+C:\c# uygulamalar\ProductTrackingSystem\WEB\obj\Debug\net6.0\WEB.AssemblyInfoInputs.cache
+C:\c# uygulamalar\ProductTrackingSystem\WEB\obj\Debug\net6.0\WEB.AssemblyInfo.cs
+C:\c# uygulamalar\ProductTrackingSystem\WEB\obj\Debug\net6.0\WEB.csproj.CoreCompileInputs.cache
+C:\c# uygulamalar\ProductTrackingSystem\WEB\obj\Debug\net6.0\WEB.MvcApplicationPartsAssemblyInfo.cs
+C:\c# uygulamalar\ProductTrackingSystem\WEB\obj\Debug\net6.0\WEB.MvcApplicationPartsAssemblyInfo.cache
+C:\c# uygulamalar\ProductTrackingSystem\WEB\obj\Debug\net6.0\WEB.RazorAssemblyInfo.cache
+C:\c# uygulamalar\ProductTrackingSystem\WEB\obj\Debug\net6.0\WEB.RazorAssemblyInfo.cs
